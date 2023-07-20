@@ -1,0 +1,35 @@
+﻿@page
+@model porte_folio.Views.Home.ResumeModel
+@{
+}
+
+<style>
+        body{
+            background-color:#78e08f;
+        }
+</style>
+
+<div class="container my-4">
+    <center><p style="font-size:35px; letter-spacing: 2px"> <b><big>RESUME</big></b></p></center>
+    <br />
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <button ID="Projects" class="btn px-5" style="border-radius: 50px; background-color: #6db1d3 "><i class="fa fa-download"></i> <a href="~/Images/Resume.pdf" download="Resume.pdf">Download</a></button>
+
+    <!-- Auto width -->
+    
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="form-group">
+                <h3>EDUCATION <asp:Button ID="Download" class="btn btn-primary px-5" style="border-radius:50px; text-align:right; float:right;" runat="server" Text="DOWNLOAD RESUME" OnClick="Download_Click" /></h3>
+
+            </div>
+
+
+        </div>
+
+    </div>
+    
+
+
+</div>

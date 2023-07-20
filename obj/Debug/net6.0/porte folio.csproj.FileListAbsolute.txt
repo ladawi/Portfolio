@@ -1,0 +1,31 @@
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\appsettings.Development.json
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\appsettings.json
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.staticwebassets.runtime.json
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.exe
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.deps.json
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.runtimeconfig.json
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.dll
+E:\Visual Studio Comunnity\porte folio\bin\Debug\net6.0\porte folio.pdb
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.csproj.AssemblyReference.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.AssemblyInfoInputs.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.AssemblyInfo.cs
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.csproj.CoreCompileInputs.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.MvcApplicationPartsAssemblyInfo.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.RazorAssemblyInfo.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.RazorAssemblyInfo.cs
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets\msbuild.porte folio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets\msbuild.build.porte folio.props
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.porte folio.props
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.porte folio.props
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets.build.json
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\staticwebassets.development.json
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\scopedcss\bundle\porte folio.styles.css
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\scopedcss\projectbundle\porte folio.bundle.scp.css
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.dll
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\refint\porte folio.dll
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.pdb
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\porte folio.genruntimeconfig.cache
+E:\Visual Studio Comunnity\porte folio\obj\Debug\net6.0\ref\porte folio.dll
