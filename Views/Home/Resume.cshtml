@@ -4,32 +4,71 @@
 }
 
 <style>
+
         body{
-            background-color:#78e08f;
+            background-color:lightblue
         }
+
+        a {
+          text-decoration: none;
+          color: inherit
+        }
+
 </style>
 
 <div class="container my-4">
     <center><p style="font-size:35px; letter-spacing: 2px"> <b><big>RESUME</big></b></p></center>
     <br />
-    <!-- Add icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <button ID="Projects" class="btn px-5" style="border-radius: 50px; background-color: #6db1d3 "><i class="fa fa-download"></i> <a href="~/Images/Resume.pdf" download="Resume.pdf">Download</a></button>
+    
 
-    <!-- Auto width -->
     
     <div class="row">
         <div class="col-md-8 mx-auto">
             <div class="form-group">
-                <h3>EDUCATION <asp:Button ID="Download" class="btn btn-primary px-5" style="border-radius:50px; text-align:right; float:right;" runat="server" Text="DOWNLOAD RESUME" OnClick="Download_Click" /></h3>
-
+                <h3>EDUCATION 
+                    <button ID="Projects" class="btn px-5" style="border-radius: 50px; background-color: #0084c6 ;text-align:right; float:right; color:white"><i class="fa fa-download"></i> <a href="~/Images/Resume.pdf" download="Resume.pdf"; text-decoration:none">Download</a></button>  
+                </h3>
             </div>
 
 
         </div>
 
     </div>
-    
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card mx-auto shadow-lg py-5 my-5 bg-white rounded">
+                <div class="row g-0 my-3">
+                    <div class="col-md-4">
+                        <CENTER>
+                            <h6>2017 - 2028</h6><br />
+                            <p>
+                                Lycée Léonard de Vinci<br />
+
+                            </p><br />
+                            <p>Amboise, France</p>
+
+                        </CENTER>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <p class="card-text" style="letter-spacing: 2px;">
+                                High School Diploma in INFORMATION TECHNOLOGY at <br />
+                                Lycée Léonard de Vinci, where i gained my first experience about <br />
+                                programming and coding.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+        </div>
 
 
 </div>
