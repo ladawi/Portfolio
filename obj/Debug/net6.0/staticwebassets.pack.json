@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Images\\Ladawi.jpg"
     },
     {
+      "Id": "E:\\Visual Studio Comunnity\\porte folio\\wwwroot\\Images\\Resume.pdf",
+      "PackagePath": "staticwebassets\\Images\\Resume.pdf"
+    },
+    {
       "Id": "E:\\Visual Studio Comunnity\\porte folio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

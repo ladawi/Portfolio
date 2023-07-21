@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Home",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\Images"
   ],
-  "SelectedNode": "\\porte folio.sln",
+  "SelectedNode": "\\Views\\Home\\Resume.cshtml",
   "PreviewInSolutionExplorer": false
 }
